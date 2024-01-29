@@ -1,4 +1,8 @@
 # React-Portfolio-website-
+
+# 2.2 Hosted React Portfolio App link below
+https://crisnzano.github.io/React-Portfolio-website-/
+
 # 2.4 Q&A
 -What is NPM? NPM (Node Package Manager) NPM is a package manager for Node.js and JavaScript. It facilitates the installation, sharing, and management of third-party libraries and tools needed for building and running JavaScript applications. For example npm start is used for starting React applications.
 
