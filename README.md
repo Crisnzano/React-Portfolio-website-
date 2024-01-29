@@ -36,9 +36,9 @@ console.log(age);  // 30
 
 -How is it possible to use HTML and JavaScript in the same function (like in a React Component)? What makes it possible under the hood? This is possible because JSX is a syntax extension that gets transpiled into JavaScript. Under the hood, tools like Babel are used to transform JSX code into corresponding JavaScript code. The React library then works with the resulting JavaScript to create and manage it.
 
--What is async/await? Bring an example - These are keywords in JavaScript used for handling asynchronous operations in a more synchronous-like manner. The async keyword is used to define an asynchronous function, and the await keyword is used inside the function to wait for a Promise to resolve.
+-What is async/await? Bring an example - These are keywords used for handling asynchronous operations in a more synchronous-like manner. The async keyword is used to define an asynchronous function, and the await keyword is used inside the function to wait for a Promise to resolve.
 Eg:
-// Async function using async/await
+
 async function fetchData() {
   try {
     const response = await fetch('https://api.example.com/data');
@@ -47,22 +47,16 @@ async function fetchData() {
   } catch (error) {
     console.error('Error fetching data:', error);
   }
-}
 
-// Call the async function
-fetchData();
 
--What is a Promise? Bring an example - A Promise is an object in JavaScript representing the eventual completion or failure of an asynchronous operation. If something happens then something else will happen.
+-What is a Promise? Bring an example - A Promise is an object in JavaScript representing the expected completion or failure of an asynchronous operation. If something happens then something else will happen.
 Eg:
 const myPromise = new Promise((resolve, reject) => {
-  // Simulating an asynchronous operation
   setTimeout(() => {
     const success = true;
-
-    if (success) {
+  if (success) {
       resolve('Operation successful');
     } else {
       reject('Operation failed');
     }
-  }, 2000);
-});
+
