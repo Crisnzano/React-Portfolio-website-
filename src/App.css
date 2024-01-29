@@ -544,3 +544,6 @@ header .follow a:hover{
 .footer span{
     color: var(--main-color);
 }
+.Weather{
+  font-size: 1.2rem;
+}
