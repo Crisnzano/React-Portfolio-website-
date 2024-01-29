@@ -1,5 +1,6 @@
 import React from "react";
 import IMAGES from "../images/index.js";
+import Weather from "./Weather.jsx";
 export default function Home() {
     return (
         <div>
@@ -14,6 +15,7 @@ export default function Home() {
       </div>
     <img className="image" src={IMAGES.imageOne }alt=""
     />
+    <Weather/>
 
       </section>
     </div>
