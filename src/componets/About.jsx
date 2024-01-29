@@ -6,7 +6,7 @@ export default function About() {
     return (
         <div>
         <section className="about" id="about">
-          <h1 class="heading">About<span> me</span></h1>
+          <h1 className="heading">About<span> me</span></h1>
           <div className="row-1">
             <div className="image">
               <img src={IMAGES.imageTwo} alt="" />
