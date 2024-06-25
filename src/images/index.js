@@ -1,5 +1,5 @@
 const IMAGES = {
-    imageOne: require('./profile-pic.JPG'),
+    imageOne: require('./ProfilePic.jpg'),
     imageTwo: require('./about-pic.JPG'),
     imageThree: require('./project-1.png'),
     imageFour: require('./project-2.png'),

@@ -13,7 +13,7 @@ export default function Home() {
           Welcome to my Portfolio website.</p>
           <a href="#about" className="btn">About me</a>
       </div>
-    <img className="image" src={IMAGES.imageOne }alt=""
+    <img className="" src={IMAGES.imageOne }alt="" style={{ width: '500px', height: '500px' }}
     />
       </section>
     </div>

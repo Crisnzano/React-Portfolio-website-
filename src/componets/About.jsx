@@ -36,7 +36,7 @@ export default function About() {
                   CCNA Training Certficate
                   Coding</p>
               </div>
-              <a href={process.env.PUBLIC_URL + '/assets/Crispus CV.pdf'} target="_blank" rel="noopener noreferrer" className="btn">Donwnload CV</a>
+              <a href={process.env.PUBLIC_URL + '/assets/Crispus_Mwangondi_Nzano.pdf'} target="_blank" rel="noopener noreferrer" className="btn">Donwnload CV</a>
               <a href="https://github.com/Crisnzano" className="btn">View projects</a>
               </div>
           </div>

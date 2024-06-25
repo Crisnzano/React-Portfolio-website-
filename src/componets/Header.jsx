@@ -1,6 +1,7 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faHippo, faPersonThroughWindow, faEnvelope, faAddressCard} from "@fortawesome/free-solid-svg-icons";
+import { faHippo, faPersonThroughWindow, faEnvelope, faAddressCard, faInstagram} from "@fortawesome/free-solid-svg-icons";
+import { FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 
 export default function Header() {
@@ -24,12 +25,12 @@ export default function Header() {
             </nav>
             <div className="follow">
                 <a href="https://twitter.com/Cris__Nzano"> 
-                <FontAwesomeIcon icon={faPersonThroughWindow} /></a>
+                <FaTwitter/></a>
                 <a href="https://www.instagram.com/cris_nzano?igshid=MjEwN2IyYWYwYw%3D%3D">
-                    <FontAwesomeIcon icon={faEnvelope}/>
+                <FaInstagram/>
                 </a>
                 <a href="https://www.linkedin.com/in/crispus-nzano-56b4b7246/" >
-                    <FontAwesomeIcon icon={faAddressCard}/>
+                <FaLinkedin/>
                 </a>
             </div>
             </header>
