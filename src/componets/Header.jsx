@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHippo, faPersonThroughWindow, faEnvelope, faAddressCard, faInstagram} from "@fortawesome/free-solid-svg-icons";
 import { FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
 
-
+// Extra Code
 export default function Header() {
     return (
 
