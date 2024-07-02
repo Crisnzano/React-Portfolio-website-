@@ -29,12 +29,12 @@ export default function Home() {
                     </div>
                     <div className="box">
                         <div className="content">
-                            <span>2021 - 2023</span>
+                            <span>2021 - 2024</span>
                             <h3>UI/UX Frontend developer</h3>
                             <p>I have experience creating easy to use user interfaces
                                 which are also visually appealing both for websites
                                 and for mobile applications. This has allowed me to gain 
-                                experience with using software like FIGMA.
+                                experience with using software like FIGMA, Blender and Gimp.
                             </p>
                         </div>
                     </div>

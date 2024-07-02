@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+X-LIC-LOCATION:Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:GMT+3
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:GMT+2
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Helsinki:20240702T103000
+DTEND;TZID=Europe/Helsinki:20240702T110000
+DTSTAMP:20240701T134437Z
+ORGANIZER;CN=Joanna Dobosz:mailto:joanna.dobosz@yolo.com
+UID:6267a49d8f50e3008d2afc4e+666ff0372240f2d6c06f179b-4089c7c4-partner@even
+ t.cronofy.com
+ATTENDEE;CUTYPE=RESOURCE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TR
+ UE;CN=TRT-Vallikraavi-2-7-Tartu booth (1);X-NUM-GUESTS=0:mailto:c_188ep24dq
+ 5t9qg50hh10c0ffo0jsc@resource.calendar.google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=crispusnzano@gmail.com;X-NUM-GUESTS=0:mailto:crispusnzano@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Joanna Dobosz;X-NUM-GUESTS=0:mailto:joanna.dobosz@yolo.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/cqj-oaoq-qjn
+X-MICROSOFT-CDO-OWNERAPPTID:910108740
+CREATED:20240617T081343Z
+DESCRIPTION:Candidate: Chrispus Mwangondi\n\nJob: React Developer for Bomba
+ y Live (14.04.2023)\n\nLocation: Google Meet\n\nJoin video meeting: https:/
+ /careers.yolo.com/video_meetings/2506a301-402e-43d1-a6a0-e670b52673ab\n\nMe
+ eting details: https://app.teamtailor.com/companies/yVTFiLUFGXA/jobs/266143
+ 3/stages/candidate/86136985/meetings/2232087/events/2237974\n\n-::~:~::~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+ \nJoin with Google Meet: https://meet.google.com/cqj-oaoq-qjn\n\nLearn more
+  about Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease
+  do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20240701T134434Z
+LOCATION:TRT-Vallikraavi-2-7-Tartu booth (1)
+SEQUENCE:1718612023
+STATUS:CONFIRMED
+SUMMARY:Meet & Greet with Yolo Group with Chrispus Mwangondi
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

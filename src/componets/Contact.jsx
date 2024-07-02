@@ -15,12 +15,12 @@ export default function Contact() {
                         <div className="icons">
                             <i className="fas fa-phone"></i>
                             <h3>Phone</h3>
-                            <p>+254741217070</p>
+                            <p>+37258929412/+254741217070</p>
                         </div>
                         <div className="icons">
                             <i className="fas fa-map-marker-alt"></i>
                             <h3>Address</h3>
-                            <p>Sabaki, Nairobi(Kenya) </p>
+                            <p>Karu 17 Tallin/ Sabaki, Nairobi Kenya </p>
                         </div>
                     </div>
 

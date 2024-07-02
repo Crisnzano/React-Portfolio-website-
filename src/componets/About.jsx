@@ -48,6 +48,18 @@ export default function About() {
               <div className="bar"><span></span></div>
             </div>
             <div className="progress">
+              <h3> React <span>90%</span></h3>
+              <div className="bar"><span></span></div>
+            </div>
+            <div className="progress">
+              <h3> Typescript <span>70%</span></h3>
+              <div className="bar"><span></span></div>
+            </div>
+            <div className="progress">
+              <h3> Next.js <span>85%</span></h3>
+              <div className="bar"><span></span></div>
+            </div>
+            <div className="progress">
               <h3> CSS <span>95%</span></h3>
               <div className="bar"><span></span></div>
             </div>
