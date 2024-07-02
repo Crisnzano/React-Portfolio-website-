@@ -30,7 +30,7 @@ export default function About() {
                   Coding</p>
               </div>
               <div className="box">
-                  <p> <span> Education:</span> BBIT Bachelors Degree(Ongoing)
+                  <p> <span> Education:</span>Bachelors Degree Business Information Technology
                   Kenya Secondary School Certificate
                   AWS Training Certificate
                   CCNA Training Certficate
@@ -48,31 +48,7 @@ export default function About() {
               <div className="bar"><span></span></div>
             </div>
             <div className="progress">
-              <h3> React <span>90%</span></h3>
-              <div className="bar"><span></span></div>
-            </div>
-            <div className="progress">
-              <h3> Typescript <span>70%</span></h3>
-              <div className="bar"><span></span></div>
-            </div>
-            <div className="progress">
-              <h3> Next.js <span>85%</span></h3>
-              <div className="bar"><span></span></div>
-            </div>
-            <div className="progress">
               <h3> CSS <span>95%</span></h3>
-              <div className="bar"><span></span></div>
-            </div>
-            <div className="progress">
-              <h3> JavaScript <span>80%</span></h3>
-              <div className="bar"><span></span></div>
-            </div>
-            <div className="progress">
-              <h3> UI/UX(FIGMA) <span>92%</span></h3>
-              <div className="bar"><span></span></div>
-            </div>
-            <div className="progress">
-              <h3> Mobile Dev <span>60%</span></h3>
               <div className="bar"><span></span></div>
             </div>
             <div className="progress">
@@ -80,7 +56,35 @@ export default function About() {
               <div className="bar"><span></span></div>
             </div>
             <div className="progress">
+              <h3> React <span>90%</span></h3>
+              <div className="bar"><span></span></div>
+            </div>
+            <div className="progress">
+              <h3> UI/UX(FIGMA) <span>92%</span></h3>
+              <div className="bar"><span></span></div>
+            </div>
+            <div className="progress">
+              <h3> Next.js <span>85%</span></h3>
+              <div className="bar"><span></span></div>
+            </div>
+            <div className="progress">
+              <h3> Python <span>85%</span></h3>
+              <div className="bar"><span></span></div>
+            </div>
+            <div className="progress">
+              <h3> JavaScript <span>80%</span></h3>
+              <div className="bar"><span></span></div>
+            </div>
+            <div className="progress">
+              <h3> Typescript <span>70%</span></h3>
+              <div className="bar"><span></span></div>
+            </div>
+            <div className="progress">
               <h3> Git <span>65%</span></h3>
+              <div className="bar"><span></span></div>
+            </div>
+            <div className="progress">
+              <h3> Mobile Dev <span>60%</span></h3>
               <div className="bar"><span></span></div>
             </div>
   
