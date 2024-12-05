@@ -21,7 +21,7 @@ export default function About() {
                 using different programming languages.</p>
             <div className="box-container">
               <div className="box">
-                  <p> <span> Experience:</span> 2+ years
+                  <p> <span> Experience:</span> 3+ years
                   Frontend Development, Graphics Design, 
                   UI/UX development</p>
               <div className="box">
@@ -36,7 +36,7 @@ export default function About() {
                   CCNA Training Certficate
                   Coding</p>
               </div>
-              <a href={process.env.PUBLIC_URL + '/assets/Crispus_Mwangondi_Nzano.pdf'} target="_blank" rel="noopener noreferrer" className="btn">Donwnload CV</a>
+              <a href={process.env.PUBLIC_URL + '/assets/Crispus_Resume.pdf'} target="_blank" rel="noopener noreferrer" className="btn">Donwnload CV</a>
               <a href="https://github.com/Crisnzano" className="btn">View projects</a>
               </div>
           </div>

@@ -45,7 +45,7 @@ export default function Portfolio() {
                     </div>
                     <div className="box">
                         <img src={IMAGES.imageSeven} alt=""/>
-                        <h3>Butterfly E-Commerce store</h3>
+                        <h3>BreachWatchers Compliance </h3>
                         <div className="icons">
                             <a href="#" > 
                             <FontAwesomeIcon icon={faLink}/></a>

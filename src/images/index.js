@@ -5,6 +5,6 @@ const IMAGES = {
     imageFour: require('./project-2.png'),
     imageFive: require('./project-3.png'),
     imageSix: require('./project-4.png'),
-    imageSeven: require('./project-6.png')
+    imageSeven: require('./project-7.png')
 }
 export default IMAGES;
